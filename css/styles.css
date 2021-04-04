@@ -106,7 +106,7 @@ html, body {
   transition-delay: 0.4s;
 }
 
-/*.table_container {
+.table_container {
   width: 500px;
   height: 400px;
   background-color: DarkSalmon;
@@ -116,7 +116,7 @@ html, body {
   transform: translateX(-50%) translateY(-50%);
 }
 
-@media (max-width:550px) {
+/*@media (max-width:550px) {
   .table_container {
     width: 95%;
   }
