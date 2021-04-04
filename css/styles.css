@@ -170,7 +170,7 @@ html, body {
   text-transform: uppercase;
 }
 
-/*#contact h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -181,7 +181,7 @@ html, body {
   margin: 0 auto;
 }
 
-.cal {
+/*.cal {
   display: inline-block;
   background: #ffe;
   color: #555;
