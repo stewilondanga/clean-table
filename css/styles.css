@@ -130,11 +130,11 @@ html, body {
   border-collapse: collapse;
 }
 
-/*.table_container table tbody tr {
+.table_container table tbody tr {
   height: 25%;
 }
 
-.table_container table tbody tr td {
+/*.table_container table tbody tr td {
   box-sizing: border-box;
   width: 20%;
   text-align: center;
