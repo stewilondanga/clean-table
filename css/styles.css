@@ -163,14 +163,14 @@ html, body {
   background: tomato;
 }
 
-/*.table_container table tbody tr:first-child td:not(:first-child) {
+.table_container table tbody tr:first-child td:not(:first-child) {
   color: white;
   font-family: "Palanquin", sans-serif;
   font-weight: bold;
   text-transform: uppercase;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
