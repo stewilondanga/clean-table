@@ -134,7 +134,7 @@ html, body {
   height: 25%;
 }
 
-/*.table_container table tbody tr td {
+.table_container table tbody tr td {
   box-sizing: border-box;
   width: 20%;
   text-align: center;
@@ -143,7 +143,7 @@ html, body {
   position: relative;
 }
 
-.table_container table tbody tr td:first-child {
+/*.table_container table tbody tr td:first-child {
   background: tomato;
   color: white;
 }
