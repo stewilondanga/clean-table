@@ -143,12 +143,12 @@ html, body {
   position: relative;
 }
 
-/*.table_container table tbody tr td:first-child {
+.table_container table tbody tr td:first-child {
   background: tomato;
   color: white;
 }
 
-.table_container table tbody tr td:first-child:before {
+/*.table_container table tbody tr td:first-child:before {
   content: "";
   width: 10px;
   height: 94%;
